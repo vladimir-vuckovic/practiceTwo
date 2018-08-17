@@ -9,3 +9,5 @@ cetvrti
 peti
 
 sesti
+
+sedmi
